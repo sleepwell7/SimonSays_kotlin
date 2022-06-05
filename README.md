@@ -1,4 +1,4 @@
-# Kotlin and Android Studion
+# Kotlin and Android Studio
 
 In this project I have worked to learn android development studio, kotlin programming language. I found that I had more of a challenge with android studio than I did learning the Kotlin language. It was a good experience and I learned a lot. I want to further my learning so that I can become more efficient and building apps.
 
