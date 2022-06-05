@@ -44,10 +44,10 @@ class Red : AppCompatActivity() {
             colors!![count] = newTitle
             title.text = newTitle
             restartbtn.visibility = View.VISIBLE
-            redbtn.text = newTitle
-            yellowbtn.text = newTitle
-            bluebtn.text = newTitle
-            greenbtn.text = newTitle
+            redbtn.visibility = View.INVISIBLE
+            yellowbtn.visibility = View.INVISIBLE
+            bluebtn.visibility = View.INVISIBLE
+            greenbtn.visibility = View.INVISIBLE
         }
 
         //Update game based on users choice
